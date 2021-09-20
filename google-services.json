@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044147651291",
+    "project_id": "gogrub-3d5cf",
+    "storage_bucket": "gogrub-3d5cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044147651291:android:c32b08e3d2ec26ffccc2fe",
+        "android_client_info": {
+          "package_name": "com.android.gogrub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044147651291-cj4m7mpvf5ims9o77211vls9n9jlqu3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArx2g7osglmWmqUEvz1xIAhLhXo3U3a-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044147651291-cj4m7mpvf5ims9o77211vls9n9jlqu3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
