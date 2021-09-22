@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1044147651291:android:c32b08e3d2ec26ffccc2fe",
         "android_client_info": {
-          "package_name": "com.android.gogrub"
+          "package_name": "com.example.gogrub"
         }
       },
       "oauth_client": [
